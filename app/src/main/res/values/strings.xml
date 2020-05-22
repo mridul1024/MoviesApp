@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="movie_name">Movie Name</string>
+
+    //Menu
+    <string name="settings">Settings</string>
+
+    //Preference settings
+    <string name="pref_sort_title">Sort movies</string>
+    <string name="pref_sort_default_value">Trending</string>
+    <string name="pref_sort_key">pref_sort</string>
+    <string name="pref_sort_trending_value">trending</string>
+    <string name="pref_sort_most_popular_value">most_popular</string>
+    <string name="pref_sort_top_rated_value">top_rated</string>
+    <string name="pref_sort_trending">Trending</string>
+    <string name="pref_sort_most_popular">Most Popular</string>
+    <string name="pref_sort_top_rated">Top rated</string>
+
+
+    <string name="no_response">Error encountered while requesting movie information!</string>
+</resources>
